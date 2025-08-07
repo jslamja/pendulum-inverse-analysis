@@ -55,6 +55,7 @@ as long as proper credit is given.
 
 Contact
 -------
-Author: Islam J. AbuQasem  
-Email: islam.g.abuqasem@gmail.com  
+Author: Islam J. AbuQasem
+Email: islamja49@gmail.com
+
 See `contact.txt` for more.
